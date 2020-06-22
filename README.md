@@ -25,4 +25,4 @@ cd <ProjectName>/client
 run yarn
 run yarn start
 open http://localhost:3000 (make sure rails is on port 3001)
-
+ 
