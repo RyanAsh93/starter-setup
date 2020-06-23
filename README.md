@@ -2,7 +2,7 @@
 
 **clone/git**
 
-1. git clone git@github.com:RyanAsh93/starter-setup.git <ProjectName>
+1. git clone git@github.com:RyanAsh93/starter-setup.git ProjectName
 2. remove origin
 3. cd into project
 4. git remote rm origin
@@ -11,7 +11,7 @@
 
 **Rails**
 
-1. cd <ProjectName>
+1. cd ProjectName
 2. run bundle
 3. in config/database yml replace database name to something else
 4. in this case that would be starter_setup_...
@@ -21,7 +21,7 @@
 
 **React**
 
-1. cd <ProjectName>/client
+1. cd ProjectName/client
 2. run yarn
 3. run yarn start
 4. open http://localhost:3000 (make sure rails is on port 3001)
