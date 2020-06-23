@@ -14,10 +14,10 @@ Rails
 cd <ProjectName>
 run bundle
 in config/database yml replace database name to something else
-in this case that would be react-rails-router...
+in this case that would be starter_setup_...
 rails db:create db:migrate db:seed
 rails s -p 3001
-check this route http://localhost:3001/api/products should see products
+check this route http://localhost:3001 
 
 React
 
